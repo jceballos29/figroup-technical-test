@@ -8,7 +8,20 @@ Esta es una aplicación de tareas sencillas que le permite agregar, editar, elim
 
 ## Instalación 
 
-ir al la carpeta de proyecto
+Para esté proyecto se utiliza una base de datos SQL Server
+- server= localhost
+- database= todoApp
+
+_Si desea hacer cambios de servidor o del nombre de la base de datos diríjase al archivo appsettings.json en todo-api-figroup/TodoApi_
+
+### General
+
+1. Clonar el repositorio
+```
+  git clone https://github.com/jceballos29/figroup-technical-test.git
+```
+
+2. Ir a la carpeta de proyecto
 ```
   cd figroup-technical-test
 ```
