@@ -6,8 +6,13 @@
 
 Esta es una aplicación de tareas sencillas que le permite agregar, editar, eliminar y marcar como realizadas sus tareas.
 
-## Instalación del Backend
+## Instalación 
 
+ir al la carpeta de proyecto
+```
+  cd figroup-technical-test
+```
+### Backend
 1. Ir a la carpeta raíz del API
 
 ```
@@ -34,7 +39,7 @@ Esta es una aplicación de tareas sencillas que le permite agregar, editar, elim
   dotnet run
 ```
 
-## Instalación del Frontend
+### Frontend
 
 1. Ir a la carpeta raíz del Frontend
 
